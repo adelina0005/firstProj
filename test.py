@@ -21,7 +21,7 @@ def get_operation():
 * : Умножение
 Ваш выбор:
 '''
-
+#fdfdfdf
     correct_operations = '+-/*' # строка корректных операций
     # спрашиваем у пользователя, какую операцию он хочет выбрать
     operation = input(message)
